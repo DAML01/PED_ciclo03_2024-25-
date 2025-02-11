@@ -9,7 +9,7 @@ struct DatosUsuario
 {
     string nombreUsuario;
     string contrasenhaUsuario;
-    int saldo;
+    float saldo;
 };
 
 struct Movimientos
